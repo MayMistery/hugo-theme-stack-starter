@@ -3,6 +3,7 @@ title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
+draft: true
 ---
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
@@ -25,7 +26,7 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 ## Gist
 
-{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
+{{< gist MayMistery e2751a943de10b2a5b3a8a6c2120cb86 >}}
 
 ## GitLab
 

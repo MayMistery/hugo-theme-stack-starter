@@ -1,5 +1,7 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/MayMistery/hugo-theme-stack-starter
 
-go 1.17
+go 1.22
 
-require github.com/CaiJimmy/hugo-theme-stack/v3 v3.26.0 // indirect
+toolchain go1.22.5
+
+require github.com/MayMistery/hugo-theme-stack/v3 v3.26.2

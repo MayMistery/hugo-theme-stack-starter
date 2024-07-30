@@ -1,6 +1,7 @@
 # Markdown renderer configuration
 [goldmark.renderer]
 unsafe = true
+# To enable HTML in markdown
 
 [tableOfContents]
 endLevel = 4

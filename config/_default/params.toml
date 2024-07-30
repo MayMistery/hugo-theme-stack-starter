@@ -2,10 +2,10 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/favicon.ico"
 
 [footer]
-since = 2020
+since = 2018
 customText = ""
 
 [dateFormat]
@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🇨🇳"
+subtitle = "Life is but a dream."
 
 [sidebar.avatar]
 enabled = true
@@ -38,7 +38,7 @@ type = "search"
 type = "archives"
 
 [widgets.homepage.params]
-limit = 5
+limit = 3
 
 [[widgets.homepage]]
 type = "categories"
@@ -80,11 +80,11 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
+shortname = "maybemia"
+apiUrl = "https://disqus.com/api/"
+apiKey = "m46zEshRqzKzPSzi91KxIqCnHjY4k8GDMnCBDgKL7V16RYg7PXh87LViIesF4t1W"
+# admin = ""
+# adminLabel = ""
 
 [comments.utterances]
 repo = ""
